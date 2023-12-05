@@ -1,3 +1,4 @@
+![logo](https://github.com/2003-ankita/2003-ankita/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ankita Yadav.</h1>
 <img align='right' alt='coding' width='400' src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2003-ankita&label=Profile%20views&color=0e75b6&style=flat" alt="2003-ankita" /> </p>
